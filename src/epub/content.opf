@@ -45,11 +45,10 @@
 		<meta property="term" refines="#subject-3">sh2008108504</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">Facing the devastation of a nuclear world war, mankind united under a world government.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-				After he learned about the nuclear power, <a href="https://standardebooks.org/ebooks/h-g-wells">H. G. Wells</a> began to think about its potential impact on human society. In <i>The World Set Free</i>, he forsaw the application of nuclear weapons and depicted their devastating destructive power. Awakened to this new reality, mankind has to begin the hard search for a better way into the future.
-		</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">After he learned about the nuclear power, &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells&lt;/a&gt; began to think about its potential impact on human society. In &lt;i&gt;The World Set Free&lt;/i&gt;, he forsaw the application of nuclear weapons and depicted their devastating destructive power. Awakened to this new reality, mankind has to begin the hard search for a better way into the future.</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1059</dc:source>
+		<dc:source>https://archive.org/details/worldsetfreestor00wellrich</dc:source>
 		<meta property="se:production-notes">The preface is preserved from the Gutenberg transcription, it doesn't appear in the scanned version.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -61,10 +60,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._G._Wells</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79063613</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Paul Nash</dc:contributor>
 		<meta property="file-as" refines="#artist">Nash, Paul</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_Nash_(artist)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50047335.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50047335</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Charles Keller</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Keller, Charles</meta>
@@ -86,6 +86,7 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="css/se.css" id="se.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
