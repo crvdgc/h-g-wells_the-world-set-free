@@ -29,11 +29,11 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The World Set Free</dc:title>
 		<meta property="file-as" refines="#title">World Set Free, The</meta>
-        <meta property="title-type" refines="#title">main</meta>
-        <dc:title id="subtitle">A Story of Mankind</dc:title>
-        <meta property="file-as" refines="#subtitle">Story of Mankind, A</meta>
-        <meta property="title-type" refines="#subtitle">subtitle</meta>
-        <dc:title id="fulltitle">The World Set Free: A Story of Mankind</dc:title>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Story of Mankind</dc:title>
+		<meta property="file-as" refines="#subtitle">Story of Mankind, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The World Set Free: A Story of Mankind</dc:title>
 		<dc:subject id="subject-1">War stories</dc:subject>
 		<dc:subject id="subject-2">Imaginary wars and battles -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Nuclear warfare -- Fiction</dc:subject>
@@ -46,7 +46,7 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">Facing the devastation of a nuclear world war, mankind united under a world government.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-                After he learned about the nuclear power, <a href="https://standardebooks.org/ebooks/h-g-wells">H. G. Wells</a> began to think about its potential impact on human society. In <i>The World Set Free</i>, he forsaw the application of nuclear weapons and depicted their devastating destructive power. Awakened to this new reality, mankind has to begin the hard search for a better way into the future.
+				After he learned about the nuclear power, <a href="https://standardebooks.org/ebooks/h-g-wells">H. G. Wells</a> began to think about its potential impact on human society. In <i>The World Set Free</i>, he forsaw the application of nuclear weapons and depicted their devastating destructive power. Awakened to this new reality, mankind has to begin the hard search for a better way into the future.
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1059</dc:source>
@@ -63,8 +63,8 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Paul Nash</dc:contributor>
 		<meta property="file-as" refines="#artist">Nash, Paul</meta>
-        <meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_Nash_(artist)</meta>
-        <meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50047335.html</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_Nash_(artist)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50047335.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Charles Keller</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Keller, Charles</meta>
@@ -74,7 +74,7 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Liu Yuxi</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Liu, Yuxi</meta>
-        <meta property="se:url.homepage" refines="#producer-1">https://github.com/crvdgc</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/crvdgc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
