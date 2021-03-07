@@ -44,8 +44,10 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008108504</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">Facing the devastation of a nuclear world war, mankind united under a world government.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">After he learned about the nuclear power, &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells&lt;/a&gt; began to think about its potential impact on human society. In &lt;i&gt;The World Set Free&lt;/i&gt;, he forsaw the application of nuclear weapons and depicted their devastating destructive power. Awakened to this new reality, mankind has to begin the hard search for a better way into the future.</meta>
+		<dc:description id="description">Facing the devastation of a nuclear world war, humanity unites under a world government.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;After he learned about the nuclear power, &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;&lt;abbr class="name"&gt;H. G.&lt;/abbr&gt; Wells&lt;/a&gt; began to think of its potential impact on human society. In &lt;i&gt;The World Set Free&lt;/i&gt;, the new energy source causes massive unemployment, shaking the already fragile social order. The ambitious powers of the world decide to seize the opportunity to compete for dominance. A world war broke out, echoing the looming first World War in reality at that time. With his prophetic imagination, Wells gave the first detailed depiction of nuclear weapons and predicted the use of the air force in warfare. Waking to the catastrophe, humanity begins the hard search for a way into a better future. We will follow a soldier, an ex-king, a despot, and a sage through this profound transformation of human society, and learn about Wells’ own thoughts and hopes along the way.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1059</dc:source>
 		<dc:source>https://archive.org/details/worldsetfreestor00wellrich</dc:source>
